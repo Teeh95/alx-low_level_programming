@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main -is the entry point for the program.
+ *
+ * Return:zero if no errors, Non-zero value if errors.
+ */
 int main(void)
 {
 	int a; long int b; long long int c; char d; float f;
